@@ -1,0 +1,15 @@
+# Daily Funding Light Scan
+
+## What Changed Since Last Run
+
+- Adobe said on `2026-05-19` that the `Adobe for creativity` connector is coming to Google Gemini, extending Firefly's agentic imaging, design, and video workflow layer into Gemini in the coming weeks ([source](https://blog.adobe.com/en/publish/2026/05/19/adobe-creativity-connector-coming-google-gemini)).
+- OpenAI said on `2026-05-19` that it is now a `C2PA Conforming Generator Product`, is adding Google `SynthID` watermarking to images from `ChatGPT`, `Codex`, and the API, and is previewing a public verification tool for OpenAI-generated images ([source](https://openai.com/index/advancing-content-provenance/)).
+- Google DeepMind published the `Gemini Omni Flash` model card on `2026-05-19`, positioning it as a video-with-audio creation and editing model distributed through the `Gemini App`, `YouTube`, `Google Flow`, and `Google Flow Music` ([source](https://deepmind.google/models/model-cards/gemini-omni-flash/)).
+
+## Coverage Checked
+
+- Current discovered competitor-note count: `102`.
+- Official-source light pass reviewed today for `100` competitor-note companies with usable public update surfaces: 3dinternet, Adobe Firefly, Artlabs, Canva AI, Comfyui, Ecomtent, Fotor, Martech3d, Meta AI Image Generator, Mintly, Modelry, Moodnode, Narkis AI, Openart, Pixeen, Purple Palm, Rawshot, Smartpixel, Soona, Spaces, Torus3d, Twikit, Vectary, Wan AI, Zolak, Glorify, Homedesigns AI, Miricanvas, Paintit AI, Simplified, Freepik AI, Ideogram, Krea, Leonardo AI, Midjourney, Nightcafe, Recraft, Runway, Wave AI, Artlist, Figma Weave, Flora AI, Higgsfield, Jasper, Luma AI, Combos, Godot, Loopit, Mwm AI, Emergent, Gdevelop, Ludo, Makko, Replit, Roblox, Rosebud, Alai, Beautiful AI, Buildbox, Chatslide, Chronicle, Deckrobot, Decky AI, Dialoguetrainer, Doppel Games, Gamma, Gemini Canvas, Genspark, Manus, Mursion, Napkin AI, Notegpt, Omma, Pitch, Plus AI, Prezent AI, Prezi, Quillbot, Rolelab, Second Nature, Simmie, Skillsoft Caisy, Slidesai, Slidesgpt, Spline, Virti, Visme, Yoodli, Hyper3d, Marble, Meshy, Pentopix, Spaitial, Spatial, Trellis 3D, Worldgen, Wunderparc, Draftly, Anifusion, Tripo AI.
+- Third-party funding/news sweep checked: PitchBook, Crunchbase, CB Insights, TechCrunch, PremierAlts, Growjo, Wellfound, Bloomberg, and Reuters; no additional material funding, valuation, acquisition, launch, pricing, packaging, market-structure, or positioning hit was verified there in this run.
+- Materially relevant provider and parent-company surfaces also checked: Adobe Blog and Newsroom, OpenAI `index` and research surfaces, Google DeepMind model surfaces, Meta Newsroom, Canva Newsroom, Runway news and research, Krea docs and blog, FLORA official site, Higgsfield official site and blog, Tripo official blog, Meshy official docs/help, and OpenArt official blog; no additional material hit was verified there beyond the items above.
+- Skipped because no usable public official update surface is currently exposed in the note corpus: `Neolemon` and `Playground`.

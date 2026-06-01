@@ -1,0 +1,15 @@
+# Daily Funding Light Scan
+
+## What Changed Since Last Run
+
+- Runway announced on `2026-06-01` that it joined NVIDIA and other labs as a founding member of the `Cosmos Coalition`, extending its positioning from creative tooling into open world-model infrastructure ([source](https://runwayml.com/news/introducing-cosmos-coalition)).
+- Recraft announced on `2026-05-30` that `Recraft V4.1 Utility Pro` reached the `#3` spot in the Artificial Analysis Image Arena and became the highest-ranked text-to-image model outside Google and OpenAI, strengthening its independent-model positioning ([source](https://www.recraft.ai/press-releases/recraft-v4-1-utility-pro-becomes-the-highest-ranked-text-to-image-model-outside-google-and-openai)).
+- xAI exposed `grok-imagine-video-1.5-preview` in docs on `2026-05-30` at `$0.08/sec` for `480p` and `$0.14/sec` for `720p`, adding a fresh major-provider video benchmark to watch against the tracked creative/video competitors ([source](https://docs.x.ai/developers/models/grok-imagine-video-1.5-preview)).
+
+## Coverage Checked
+
+- Current discovered competitor-note file count: `106`, covering `105` unique competitor-note companies.
+- Competitor-note companies reviewed in this pass: 3dinternet, Adobe Firefly, Artlabs, Canva AI, Comfyui, Ecomtent, Fotor, Martech3d, Meta AI Image Generator, Mintly, Modelry, Moodnode, Narkis AI, Neolemon, Openart, Pixeen, Purple Palm, Rawshot, Smartpixel, Soona, Spaces, Torus3d, Twikit, Vectary, Wan AI, Zolak, Glorify, Homedesigns AI, Miricanvas, Paintit AI, Simplified, Freepik AI, Ideogram, Krea, Leonardo AI, Midjourney, Nightcafe, Playground, Recraft, Runway, Wave AI, Artlist, Figma Weave, Flora AI, Higgsfield, Jasper, Luma AI, Combos, Godot, Loopit, Mwm AI, Emergent, Gdevelop, Ludo, Makko, Replit, Roblox, Rosebud, Alai, Beautiful AI, Buildbox, Chatslide, Chronicle, Deckrobot, Decky AI, Dialoguetrainer, Doppel Games, Gamma, Gemini Canvas, Genspark, Manus, Mursion, Napkin AI, Notegpt, Omma, Pitch, Plus AI, Prezent AI, Prezi, Quillbot, Rolelab, Second Nature, Simmie, Skillsoft Caisy, Slidesai, Slidesgpt, Spline, Virti, Visme, Yoodli, Hyper3d, Marble, Meshy, Pentopix, Spaitial, Spatial, Trellis 3D, Worldgen, Wunderparc, Draftly, Anifusion, Tripo AI, Keyshot, Ace Studio Video Composer, Agent Opus.
+- Official-source pass emphasized homepage, product, pricing, newsroom/blog, changelog/docs, visible positioning, parent-company launch surfaces, and known primary social monitoring surfaces where they exist, with extra depth on Runway, Recraft, and major provider surfaces from OpenAI, Google, Anthropic, xAI/Grok, Meta, and Adobe; no other material official launch, pricing, packaging, funding, valuation, acquisition, or positioning change was verified beyond the items above.
+- Third-party funding/news sweep checked: PitchBook, Crunchbase, CB Insights, TechCrunch, PremierAlts, Growjo, Wellfound, Bloomberg, and Reuters; no material new funding, valuation, acquisition, or market-structure hit was verified there in this pass.
+- Skipped because no usable public official update surface is exposed in the current note corpus: `Neolemon` and `Playground`.

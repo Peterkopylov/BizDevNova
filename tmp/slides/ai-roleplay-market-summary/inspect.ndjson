@@ -1,0 +1,208 @@
+{"kind":"deck","id":"ai-roleplay-market-summary","slideCount":7,"slideSize":{"width":1280,"height":720}}
+{"kind":"slide","slide":1,"id":"x11dyp"}
+{"kind":"slide","slide":2,"id":"8ndzjo"}
+{"kind":"slide","slide":3,"id":"08aa7c"}
+{"kind":"slide","slide":4,"id":"gy4doh"}
+{"kind":"slide","slide":5,"id":"0s75ub"}
+{"kind":"slide","slide":6,"id":"wynkio"}
+{"kind":"slide","slide":7,"id":"v3si2o"}
+{"kind":"image","slide":1,"id":"1","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":1,"id":"2","role":"cover contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":1,"id":"3","role":"cover accent rule","shapeType":"rect","bbox":[64,86,7,455]}
+{"kind":"textbox","slide":1,"id":"4","role":"kicker","text":"TEAM SUMMARY","textPreview":"TEAM SUMMARY","textChars":12,"textLines":1,"bbox":[86,88,520,26]}
+{"kind":"textbox","slide":1,"id":"5","role":"cover title","text":"AI Roleplay Market Summary","textPreview":"AI Roleplay Market Summary","textChars":26,"textLines":1,"bbox":[82,130,785,184]}
+{"kind":"textbox","slide":1,"id":"6","role":"cover subtitle","text":"Category structure, key competitors, funding posture, table-stakes features, and our best entry wedge.","textPreview":"Category structure, key competitors, funding posture, table-stakes features, and our best entry wedge.","textChars":102,"textLines":1,"bbox":[86,326,610,86]}
+{"kind":"shape","slide":1,"id":"7","role":"cover moment panel","shapeType":"roundRect","bbox":[86,456,390,92]}
+{"kind":"textbox","slide":1,"id":"8","role":"cover moment","text":"AI chat is not the product. Rehearsal infrastructure is.","textPreview":"AI chat is not the product. Rehearsal infrastructure is.","textChars":56,"textLines":1,"bbox":[112,478,336,40]}
+{"kind":"image","slide":2,"id":"1","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":2,"id":"2","role":"content contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":2,"id":"3","role":"header","text":"MARKET","textPreview":"MARKET","textChars":6,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":2,"id":"4","role":"header","text":"02 / 07","textPreview":"02 / 07","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":2,"id":"5","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":2,"id":"6","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":2,"id":"7","role":"title","text":"The category is real, but it is not one market","textPreview":"The category is real, but it is not one market","textChars":46,"textLines":1,"bbox":[64,86,760,142]}
+{"kind":"textbox","slide":2,"id":"8","role":"subtitle","text":"Competitors cluster around training and readiness. The category is moving from AI chat toward structured rehearsal.","textPreview":"Competitors cluster around training and readiness. The category is moving from AI chat toward structured rehearsal.","textChars":115,"textLines":1,"bbox":[66,234,720,70]}
+{"kind":"shape","slide":2,"id":"9","role":"card panel: MARKET SHAPE","shapeType":"roundRect","bbox":[84,362,355.3333333333333,228]}
+{"kind":"shape","slide":2,"id":"10","role":"card accent: MARKET SHAPE","shapeType":"rect","bbox":[84,362,8,228]}
+{"kind":"shape","slide":2,"id":"11","role":"icon badge","shapeType":"ellipse","bbox":[106,386,54,54]}
+{"kind":"shape","slide":2,"id":"12","role":"icon glyph","shapeType":"rect","bbox":[122,415,6,12]}
+{"kind":"shape","slide":2,"id":"13","role":"icon glyph","shapeType":"rect","bbox":[131,407,6,20]}
+{"kind":"shape","slide":2,"id":"14","role":"icon glyph","shapeType":"rect","bbox":[140,400,6,27]}
+{"kind":"textbox","slide":2,"id":"15","role":"card label","text":"MARKET SHAPE","textPreview":"MARKET SHAPE","textChars":12,"textLines":1,"bbox":[172,384,247.33333333333331,28]}
+{"kind":"textbox","slide":2,"id":"16","role":"card body: MARKET SHAPE","text":"Five visible wedges:\nenterprise training, revenue\nroleplay, interview\nrehearsal, education, and\nemerging group simulation.","textPreview":"Five visible wedges: | enterprise training, revenue | roleplay, interview | rehearsal, education, and | emerging group simulation.","textChars":122,"textLines":5,"bbox":[108,448,307.3333333333333,120]}
+{"kind":"shape","slide":2,"id":"17","role":"card panel: COMMERCIAL CENTER","shapeType":"roundRect","bbox":[463.3333333333333,362,355.3333333333333,228]}
+{"kind":"shape","slide":2,"id":"18","role":"card accent: COMMERCIAL CENTER","shapeType":"rect","bbox":[463.3333333333333,362,8,228]}
+{"kind":"shape","slide":2,"id":"19","role":"icon badge","shapeType":"ellipse","bbox":[485.3333333333333,386,54,54]}
+{"kind":"shape","slide":2,"id":"20","role":"icon glyph","shapeType":"ellipse","bbox":[498.3333333333333,404,10,10]}
+{"kind":"shape","slide":2,"id":"21","role":"icon glyph","shapeType":"ellipse","bbox":[516.3333333333333,413,10,10]}
+{"kind":"shape","slide":2,"id":"22","role":"icon glyph","shapeType":"rect","bbox":[507.3333333333333,411,19,3]}
+{"kind":"textbox","slide":2,"id":"23","role":"card label","text":"COMMERCIAL CENTER","textPreview":"COMMERCIAL CENTER","textChars":17,"textLines":1,"bbox":[551.3333333333333,384,247.33333333333331,28]}
+{"kind":"textbox","slide":2,"id":"24","role":"card body: COMMERCIAL CENTER","text":"The strongest demand today\nsits in training and\nenablement, where buyers\nalready own readiness, ramp,\nand coaching budgets.","textPreview":"The strongest demand today | sits in training and | enablement, where buyers | already own readiness, ramp, | and coaching budgets.","textChars":123,"textLines":5,"bbox":[487.3333333333333,448,307.3333333333333,120]}
+{"kind":"shape","slide":2,"id":"25","role":"card panel: STRATEGIC SHIFT","shapeType":"roundRect","bbox":[842.6666666666666,362,355.3333333333333,228]}
+{"kind":"shape","slide":2,"id":"26","role":"card accent: STRATEGIC SHIFT","shapeType":"rect","bbox":[842.6666666666666,362,8,228]}
+{"kind":"shape","slide":2,"id":"27","role":"icon badge","shapeType":"ellipse","bbox":[864.6666666666666,386,54,54]}
+{"kind":"shape","slide":2,"id":"28","role":"icon glyph","shapeType":"roundRect","bbox":[877.6666666666666,401,26,13]}
+{"kind":"shape","slide":2,"id":"29","role":"icon glyph","shapeType":"roundRect","bbox":[882.6666666666666,410,26,13]}
+{"kind":"shape","slide":2,"id":"30","role":"icon glyph","shapeType":"roundRect","bbox":[887.6666666666666,419,20,10]}
+{"kind":"textbox","slide":2,"id":"31","role":"card label","text":"STRATEGIC SHIFT","textPreview":"STRATEGIC SHIFT","textChars":15,"textLines":1,"bbox":[930.6666666666666,384,247.33333333333331,28]}
+{"kind":"textbox","slide":2,"id":"32","role":"card body: STRATEGIC SHIFT","text":"Winners are selling\npractice, scoring, and\nvisibility, not generic\nconversation quality by\nitself.","textPreview":"Winners are selling | practice, scoring, and | visibility, not generic | conversation quality by | itself.","textChars":98,"textLines":5,"bbox":[866.6666666666666,448,307.3333333333333,120]}
+{"kind":"image","slide":3,"id":"1","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":3,"id":"2","role":"content contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":3,"id":"3","role":"header","text":"COMPETITORS","textPreview":"COMPETITORS","textChars":11,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":3,"id":"4","role":"header","text":"03 / 07","textPreview":"03 / 07","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":3,"id":"5","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":3,"id":"6","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":3,"id":"7","role":"title","text":"Key competitors cluster into a few practical groups","textPreview":"Key competitors cluster into a few practical groups","textChars":51,"textLines":1,"bbox":[64,86,760,142]}
+{"kind":"textbox","slide":3,"id":"8","role":"subtitle","text":"Different companies win through different GTM motions, but the strongest cluster is around revenue and workforce readiness.","textPreview":"Different companies win through different GTM motions, but the strongest cluster is around revenue and workforce readiness.","textChars":123,"textLines":1,"bbox":[66,234,720,70]}
+{"kind":"shape","slide":3,"id":"9","role":"card panel: ENTERPRISE L&D","shapeType":"roundRect","bbox":[84,362,355.3333333333333,228]}
+{"kind":"shape","slide":3,"id":"10","role":"card accent: ENTERPRISE L&D","shapeType":"rect","bbox":[84,362,8,228]}
+{"kind":"shape","slide":3,"id":"11","role":"icon badge","shapeType":"ellipse","bbox":[106,386,54,54]}
+{"kind":"shape","slide":3,"id":"12","role":"icon glyph","shapeType":"rect","bbox":[122,415,6,12]}
+{"kind":"shape","slide":3,"id":"13","role":"icon glyph","shapeType":"rect","bbox":[131,407,6,20]}
+{"kind":"shape","slide":3,"id":"14","role":"icon glyph","shapeType":"rect","bbox":[140,400,6,27]}
+{"kind":"textbox","slide":3,"id":"15","role":"card label","text":"ENTERPRISE L&D","textPreview":"ENTERPRISE L&D","textChars":14,"textLines":1,"bbox":[172,384,247.33333333333331,28]}
+{"kind":"textbox","slide":3,"id":"16","role":"card body: ENTERPRISE L&D","text":"Skillsoft CAISY,\nDialogueTrainer, Virti, and\nMursion package simulation\nas workforce training and\nmeasurable skill\ndevelopment.","textPreview":"Skillsoft CAISY, | DialogueTrainer, Virti, and | Mursion package simulation | as workforce training and | measurable skill | development.","textChars":127,"textLines":6,"bbox":[108,448,307.3333333333333,120]}
+{"kind":"shape","slide":3,"id":"17","role":"card panel: REVENUE ENABLEMENT","shapeType":"roundRect","bbox":[463.3333333333333,362,355.3333333333333,228]}
+{"kind":"shape","slide":3,"id":"18","role":"card accent: REVENUE ENABLEMENT","shapeType":"rect","bbox":[463.3333333333333,362,8,228]}
+{"kind":"shape","slide":3,"id":"19","role":"icon badge","shapeType":"ellipse","bbox":[485.3333333333333,386,54,54]}
+{"kind":"shape","slide":3,"id":"20","role":"icon glyph","shapeType":"ellipse","bbox":[498.3333333333333,404,10,10]}
+{"kind":"shape","slide":3,"id":"21","role":"icon glyph","shapeType":"ellipse","bbox":[516.3333333333333,413,10,10]}
+{"kind":"shape","slide":3,"id":"22","role":"icon glyph","shapeType":"rect","bbox":[507.3333333333333,411,19,3]}
+{"kind":"textbox","slide":3,"id":"23","role":"card label","text":"REVENUE ENABLEMENT","textPreview":"REVENUE ENABLEMENT","textChars":18,"textLines":1,"bbox":[551.3333333333333,384,247.33333333333331,28]}
+{"kind":"textbox","slide":3,"id":"24","role":"card body: REVENUE ENABLEMENT","text":"Second Nature, Simmie,\nYoodli, and RoleLab focus on\nsales readiness, onboarding,\nobjection handling, and\ncertification.","textPreview":"Second Nature, Simmie, | Yoodli, and RoleLab focus on | sales readiness, onboarding, | objection handling, and | certification.","textChars":119,"textLines":5,"bbox":[487.3333333333333,448,307.3333333333333,120]}
+{"kind":"shape","slide":3,"id":"25","role":"card panel: WHERE IT IS HEADING","shapeType":"roundRect","bbox":[842.6666666666666,362,355.3333333333333,228]}
+{"kind":"shape","slide":3,"id":"26","role":"card accent: WHERE IT IS HEADING","shapeType":"rect","bbox":[842.6666666666666,362,8,228]}
+{"kind":"shape","slide":3,"id":"27","role":"icon badge","shapeType":"ellipse","bbox":[864.6666666666666,386,54,54]}
+{"kind":"shape","slide":3,"id":"28","role":"icon glyph","shapeType":"roundRect","bbox":[877.6666666666666,401,26,13]}
+{"kind":"shape","slide":3,"id":"29","role":"icon glyph","shapeType":"roundRect","bbox":[882.6666666666666,410,26,13]}
+{"kind":"shape","slide":3,"id":"30","role":"icon glyph","shapeType":"roundRect","bbox":[887.6666666666666,419,20,10]}
+{"kind":"textbox","slide":3,"id":"31","role":"card label","text":"WHERE IT IS HEADING","textPreview":"WHERE IT IS HEADING","textChars":19,"textLines":1,"bbox":[930.6666666666666,384,247.33333333333331,28]}
+{"kind":"textbox","slide":3,"id":"32","role":"card body: WHERE IT IS HEADING","text":"Yoodli and Second Nature\nalready hint at\nmulti-stakeholder scenarios;\nGoogle DialogLab signals the\nfuture of group simulation.","textPreview":"Yoodli and Second Nature | already hint at | multi-stakeholder scenarios; | Google DialogLab signals the | future of group simulation.","textChars":126,"textLines":5,"bbox":[866.6666666666666,448,307.3333333333333,120]}
+{"kind":"image","slide":4,"id":"1","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":4,"id":"2","role":"content contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":4,"id":"3","role":"header","text":"FUNDING","textPreview":"FUNDING","textChars":7,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":4,"id":"4","role":"header","text":"04 / 07","textPreview":"04 / 07","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":4,"id":"5","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":4,"id":"6","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":4,"id":"7","role":"title","text":"Funding signals show a category with both incumbents and room for entrants","textPreview":"Funding signals show a category with both incumbents and room for entrants","textChars":74,"textLines":1,"bbox":[64,86,760,142]}
+{"kind":"textbox","slide":4,"id":"8","role":"subtitle","text":"The market ranges from public-company distribution to well-funded startups to early-stage specialists.","textPreview":"The market ranges from public-company distribution to well-funded startups to early-stage specialists.","textChars":102,"textLines":1,"bbox":[66,234,720,70]}
+{"kind":"shape","slide":4,"id":"9","role":"card panel: INCUMBENTS","shapeType":"roundRect","bbox":[84,362,355.3333333333333,228]}
+{"kind":"shape","slide":4,"id":"10","role":"card accent: INCUMBENTS","shapeType":"rect","bbox":[84,362,8,228]}
+{"kind":"shape","slide":4,"id":"11","role":"icon badge","shapeType":"ellipse","bbox":[106,386,54,54]}
+{"kind":"shape","slide":4,"id":"12","role":"icon glyph","shapeType":"rect","bbox":[122,415,6,12]}
+{"kind":"shape","slide":4,"id":"13","role":"icon glyph","shapeType":"rect","bbox":[131,407,6,20]}
+{"kind":"shape","slide":4,"id":"14","role":"icon glyph","shapeType":"rect","bbox":[140,400,6,27]}
+{"kind":"textbox","slide":4,"id":"15","role":"card label","text":"INCUMBENTS","textPreview":"INCUMBENTS","textChars":10,"textLines":1,"bbox":[172,384,247.33333333333331,28]}
+{"kind":"textbox","slide":4,"id":"16","role":"card body: INCUMBENTS","text":"Skillsoft is public (NYSE:\nSKIL). Virti and Mursion\nshow longer-running\nventure-backed platform\nplays in training.","textPreview":"Skillsoft is public (NYSE: | SKIL). Virti and Mursion | show longer-running | venture-backed platform | plays in training.","textChars":114,"textLines":5,"bbox":[108,448,307.3333333333333,120]}
+{"kind":"shape","slide":4,"id":"17","role":"card panel: SCALE-UP SIGNAL","shapeType":"roundRect","bbox":[463.3333333333333,362,355.3333333333333,228]}
+{"kind":"shape","slide":4,"id":"18","role":"card accent: SCALE-UP SIGNAL","shapeType":"rect","bbox":[463.3333333333333,362,8,228]}
+{"kind":"shape","slide":4,"id":"19","role":"icon badge","shapeType":"ellipse","bbox":[485.3333333333333,386,54,54]}
+{"kind":"shape","slide":4,"id":"20","role":"icon glyph","shapeType":"ellipse","bbox":[498.3333333333333,404,10,10]}
+{"kind":"shape","slide":4,"id":"21","role":"icon glyph","shapeType":"ellipse","bbox":[516.3333333333333,413,10,10]}
+{"kind":"shape","slide":4,"id":"22","role":"icon glyph","shapeType":"rect","bbox":[507.3333333333333,411,19,3]}
+{"kind":"textbox","slide":4,"id":"23","role":"card label","text":"SCALE-UP SIGNAL","textPreview":"SCALE-UP SIGNAL","textChars":15,"textLines":1,"bbox":[551.3333333333333,384,247.33333333333331,28]}
+{"kind":"textbox","slide":4,"id":"24","role":"card body: SCALE-UP SIGNAL","text":"Yoodli stands out with a\nreported $40M Series B and\nvaluation above $300M,\nproving strong investor\nbelief in the category.","textPreview":"Yoodli stands out with a | reported $40M Series B and | valuation above $300M, | proving strong investor | belief in the category.","textChars":122,"textLines":5,"bbox":[487.3333333333333,448,307.3333333333333,120]}
+{"kind":"shape","slide":4,"id":"25","role":"card panel: OPEN SPACE","shapeType":"roundRect","bbox":[842.6666666666666,362,355.3333333333333,228]}
+{"kind":"shape","slide":4,"id":"26","role":"card accent: OPEN SPACE","shapeType":"rect","bbox":[842.6666666666666,362,8,228]}
+{"kind":"shape","slide":4,"id":"27","role":"icon badge","shapeType":"ellipse","bbox":[864.6666666666666,386,54,54]}
+{"kind":"shape","slide":4,"id":"28","role":"icon glyph","shapeType":"roundRect","bbox":[877.6666666666666,401,26,13]}
+{"kind":"shape","slide":4,"id":"29","role":"icon glyph","shapeType":"roundRect","bbox":[882.6666666666666,410,26,13]}
+{"kind":"shape","slide":4,"id":"30","role":"icon glyph","shapeType":"roundRect","bbox":[887.6666666666666,419,20,10]}
+{"kind":"textbox","slide":4,"id":"31","role":"card label","text":"OPEN SPACE","textPreview":"OPEN SPACE","textChars":10,"textLines":1,"bbox":[930.6666666666666,384,247.33333333333331,28]}
+{"kind":"textbox","slide":4,"id":"32","role":"card body: OPEN SPACE","text":"Second Nature funding\nvisibility is partial and\nSimmie is still early-stage,\nwhich suggests room for\nfocused entrants.","textPreview":"Second Nature funding | visibility is partial and | Simmie is still early-stage, | which suggests room for | focused entrants.","textChars":118,"textLines":5,"bbox":[866.6666666666666,448,307.3333333333333,120]}
+{"kind":"image","slide":5,"id":"1","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":5,"id":"2","role":"content contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":5,"id":"3","role":"header","text":"VALUE PROPS","textPreview":"VALUE PROPS","textChars":11,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":5,"id":"4","role":"header","text":"05 / 07","textPreview":"05 / 07","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":5,"id":"5","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":5,"id":"6","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":5,"id":"7","role":"title","text":"Customers buy readiness, not AI chat","textPreview":"Customers buy readiness, not AI chat","textChars":36,"textLines":1,"bbox":[64,86,760,142]}
+{"kind":"textbox","slide":5,"id":"8","role":"subtitle","text":"The strongest value propositions repeat across competitors and explain why teams actually pay for these products.","textPreview":"The strongest value propositions repeat across competitors and explain why teams actually pay for these products.","textChars":113,"textLines":1,"bbox":[66,234,720,70]}
+{"kind":"shape","slide":5,"id":"9","role":"card panel: PRACTICE AT SCALE","shapeType":"roundRect","bbox":[84,362,355.3333333333333,228]}
+{"kind":"shape","slide":5,"id":"10","role":"card accent: PRACTICE AT SCALE","shapeType":"rect","bbox":[84,362,8,228]}
+{"kind":"shape","slide":5,"id":"11","role":"icon badge","shapeType":"ellipse","bbox":[106,386,54,54]}
+{"kind":"shape","slide":5,"id":"12","role":"icon glyph","shapeType":"rect","bbox":[122,415,6,12]}
+{"kind":"shape","slide":5,"id":"13","role":"icon glyph","shapeType":"rect","bbox":[131,407,6,20]}
+{"kind":"shape","slide":5,"id":"14","role":"icon glyph","shapeType":"rect","bbox":[140,400,6,27]}
+{"kind":"textbox","slide":5,"id":"15","role":"card label","text":"PRACTICE AT SCALE","textPreview":"PRACTICE AT SCALE","textChars":17,"textLines":1,"bbox":[172,384,247.33333333333331,28]}
+{"kind":"textbox","slide":5,"id":"16","role":"card body: PRACTICE AT SCALE","text":"Replace inconsistent mock\nsessions with repeatable\nreps that do not consume\nmore manager or trainer\ntime.","textPreview":"Replace inconsistent mock | sessions with repeatable | reps that do not consume | more manager or trainer | time.","textChars":105,"textLines":5,"bbox":[108,448,307.3333333333333,120]}
+{"kind":"shape","slide":5,"id":"17","role":"card panel: READINESS AND PROOF","shapeType":"roundRect","bbox":[463.3333333333333,362,355.3333333333333,228]}
+{"kind":"shape","slide":5,"id":"18","role":"card accent: READINESS AND PROOF","shapeType":"rect","bbox":[463.3333333333333,362,8,228]}
+{"kind":"shape","slide":5,"id":"19","role":"icon badge","shapeType":"ellipse","bbox":[485.3333333333333,386,54,54]}
+{"kind":"shape","slide":5,"id":"20","role":"icon glyph","shapeType":"ellipse","bbox":[498.3333333333333,404,10,10]}
+{"kind":"shape","slide":5,"id":"21","role":"icon glyph","shapeType":"ellipse","bbox":[516.3333333333333,413,10,10]}
+{"kind":"shape","slide":5,"id":"22","role":"icon glyph","shapeType":"rect","bbox":[507.3333333333333,411,19,3]}
+{"kind":"textbox","slide":5,"id":"23","role":"card label","text":"READINESS AND PROOF","textPreview":"READINESS AND PROOF","textChars":19,"textLines":1,"bbox":[551.3333333333333,384,247.33333333333331,28]}
+{"kind":"textbox","slide":5,"id":"24","role":"card body: READINESS AND PROOF","text":"Buyers want scores,\ncertification, and evidence\nthat someone is ready before\nthey go live with customers\nor employees.","textPreview":"Buyers want scores, | certification, and evidence | that someone is ready before | they go live with customers | or employees.","textChars":118,"textLines":5,"bbox":[487.3333333333333,448,307.3333333333333,120]}
+{"kind":"shape","slide":5,"id":"25","role":"card panel: COMPANY-SPECIFIC REALISM","shapeType":"roundRect","bbox":[842.6666666666666,362,355.3333333333333,228]}
+{"kind":"shape","slide":5,"id":"26","role":"card accent: COMPANY-SPECIFIC REALISM","shapeType":"rect","bbox":[842.6666666666666,362,8,228]}
+{"kind":"shape","slide":5,"id":"27","role":"icon badge","shapeType":"ellipse","bbox":[864.6666666666666,386,54,54]}
+{"kind":"shape","slide":5,"id":"28","role":"icon glyph","shapeType":"roundRect","bbox":[877.6666666666666,401,26,13]}
+{"kind":"shape","slide":5,"id":"29","role":"icon glyph","shapeType":"roundRect","bbox":[882.6666666666666,410,26,13]}
+{"kind":"shape","slide":5,"id":"30","role":"icon glyph","shapeType":"roundRect","bbox":[887.6666666666666,419,20,10]}
+{"kind":"textbox","slide":5,"id":"31","role":"card label","text":"COMPANY-SPECIFIC REALISM","textPreview":"COMPANY-SPECIFIC REALISM","textChars":24,"textLines":1,"bbox":[930.6666666666666,384,247.33333333333331,28]}
+{"kind":"textbox","slide":5,"id":"32","role":"card body: COMPANY-SPECIFIC REALISM","text":"Playbooks, call transcripts,\nand custom personas make\nsimulations feel operational\ninstead of generic.","textPreview":"Playbooks, call transcripts, | and custom personas make | simulations feel operational | instead of generic.","textChars":102,"textLines":4,"bbox":[866.6666666666666,448,307.3333333333333,120]}
+{"kind":"image","slide":6,"id":"1","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":6,"id":"2","role":"content contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":6,"id":"3","role":"header","text":"FEATURES","textPreview":"FEATURES","textChars":8,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":6,"id":"4","role":"header","text":"06 / 07","textPreview":"06 / 07","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":6,"id":"5","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":6,"id":"6","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":6,"id":"7","role":"title","text":"Table stakes are now clear","textPreview":"Table stakes are now clear","textChars":26,"textLines":1,"bbox":[64,86,760,142]}
+{"kind":"textbox","slide":6,"id":"8","role":"subtitle","text":"We do not need every feature in the market, but we do need the core stack that makes roleplay operationally credible.","textPreview":"We do not need every feature in the market, but we do need the core stack that makes roleplay operationally credible.","textChars":117,"textLines":1,"bbox":[66,234,720,70]}
+{"kind":"shape","slide":6,"id":"9","role":"card panel: CORE LOOP","shapeType":"roundRect","bbox":[84,362,355.3333333333333,228]}
+{"kind":"shape","slide":6,"id":"10","role":"card accent: CORE LOOP","shapeType":"rect","bbox":[84,362,8,228]}
+{"kind":"shape","slide":6,"id":"11","role":"icon badge","shapeType":"ellipse","bbox":[106,386,54,54]}
+{"kind":"shape","slide":6,"id":"12","role":"icon glyph","shapeType":"rect","bbox":[122,415,6,12]}
+{"kind":"shape","slide":6,"id":"13","role":"icon glyph","shapeType":"rect","bbox":[131,407,6,20]}
+{"kind":"shape","slide":6,"id":"14","role":"icon glyph","shapeType":"rect","bbox":[140,400,6,27]}
+{"kind":"textbox","slide":6,"id":"15","role":"card label","text":"CORE LOOP","textPreview":"CORE LOOP","textChars":9,"textLines":1,"bbox":[172,384,247.33333333333331,28]}
+{"kind":"textbox","slide":6,"id":"16","role":"card body: CORE LOOP","text":"Scenario builder, persona\nbuilder, and live voice or\nvoice plus text simulation\nare the minimum believable\npractice loop.","textPreview":"Scenario builder, persona | builder, and live voice or | voice plus text simulation | are the minimum believable | practice loop.","textChars":121,"textLines":5,"bbox":[108,448,307.3333333333333,120]}
+{"kind":"shape","slide":6,"id":"17","role":"card panel: MEASUREMENT","shapeType":"roundRect","bbox":[463.3333333333333,362,355.3333333333333,228]}
+{"kind":"shape","slide":6,"id":"18","role":"card accent: MEASUREMENT","shapeType":"rect","bbox":[463.3333333333333,362,8,228]}
+{"kind":"shape","slide":6,"id":"19","role":"icon badge","shapeType":"ellipse","bbox":[485.3333333333333,386,54,54]}
+{"kind":"shape","slide":6,"id":"20","role":"icon glyph","shapeType":"ellipse","bbox":[498.3333333333333,404,10,10]}
+{"kind":"shape","slide":6,"id":"21","role":"icon glyph","shapeType":"ellipse","bbox":[516.3333333333333,413,10,10]}
+{"kind":"shape","slide":6,"id":"22","role":"icon glyph","shapeType":"rect","bbox":[507.3333333333333,411,19,3]}
+{"kind":"textbox","slide":6,"id":"23","role":"card label","text":"MEASUREMENT","textPreview":"MEASUREMENT","textChars":11,"textLines":1,"bbox":[551.3333333333333,384,247.33333333333331,28]}
+{"kind":"textbox","slide":6,"id":"24","role":"card body: MEASUREMENT","text":"Rubric scoring, feedback,\ntranscript or replay, and\nrepeat attempts turn\npractice into measurable\nimprovement.","textPreview":"Rubric scoring, feedback, | transcript or replay, and | repeat attempts turn | practice into measurable | improvement.","textChars":110,"textLines":5,"bbox":[487.3333333333333,448,307.3333333333333,120]}
+{"kind":"shape","slide":6,"id":"25","role":"card panel: TEAM INFRASTRUCTURE","shapeType":"roundRect","bbox":[842.6666666666666,362,355.3333333333333,228]}
+{"kind":"shape","slide":6,"id":"26","role":"card accent: TEAM INFRASTRUCTURE","shapeType":"rect","bbox":[842.6666666666666,362,8,228]}
+{"kind":"shape","slide":6,"id":"27","role":"icon badge","shapeType":"ellipse","bbox":[864.6666666666666,386,54,54]}
+{"kind":"shape","slide":6,"id":"28","role":"icon glyph","shapeType":"roundRect","bbox":[877.6666666666666,401,26,13]}
+{"kind":"shape","slide":6,"id":"29","role":"icon glyph","shapeType":"roundRect","bbox":[882.6666666666666,410,26,13]}
+{"kind":"shape","slide":6,"id":"30","role":"icon glyph","shapeType":"roundRect","bbox":[887.6666666666666,419,20,10]}
+{"kind":"textbox","slide":6,"id":"31","role":"card label","text":"TEAM INFRASTRUCTURE","textPreview":"TEAM INFRASTRUCTURE","textChars":19,"textLines":1,"bbox":[930.6666666666666,384,247.33333333333331,28]}
+{"kind":"textbox","slide":6,"id":"32","role":"card body: TEAM INFRASTRUCTURE","text":"Manager dashboard,\nassignment, certification,\nand integrations make the\nproduct deployable inside\nreal programs.","textPreview":"Manager dashboard, | assignment, certification, | and integrations make the | product deployable inside | real programs.","textChars":112,"textLines":5,"bbox":[866.6666666666666,448,307.3333333333333,120]}
+{"kind":"image","slide":7,"id":"1","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":7,"id":"2","role":"content contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":7,"id":"3","role":"header","text":"OUR WEDGE","textPreview":"OUR WEDGE","textChars":9,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":7,"id":"4","role":"header","text":"07 / 07","textPreview":"07 / 07","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":7,"id":"5","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":7,"id":"6","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":7,"id":"7","role":"title","text":"Our best entry point is focused readiness first, social complexity second","textPreview":"Our best entry point is focused readiness first, social complexity second","textChars":73,"textLines":1,"bbox":[64,86,760,142]}
+{"kind":"textbox","slide":7,"id":"8","role":"subtitle","text":"Enter where ROI is clearest, then differentiate where one-on-one roleplay starts to break down.","textPreview":"Enter where ROI is clearest, then differentiate where one-on-one roleplay starts to break down.","textChars":95,"textLines":1,"bbox":[66,234,720,70]}
+{"kind":"shape","slide":7,"id":"9","role":"card panel: FIRST WEDGE","shapeType":"roundRect","bbox":[84,362,355.3333333333333,228]}
+{"kind":"shape","slide":7,"id":"10","role":"card accent: FIRST WEDGE","shapeType":"rect","bbox":[84,362,8,228]}
+{"kind":"shape","slide":7,"id":"11","role":"icon badge","shapeType":"ellipse","bbox":[106,386,54,54]}
+{"kind":"shape","slide":7,"id":"12","role":"icon glyph","shapeType":"rect","bbox":[122,415,6,12]}
+{"kind":"shape","slide":7,"id":"13","role":"icon glyph","shapeType":"rect","bbox":[131,407,6,20]}
+{"kind":"shape","slide":7,"id":"14","role":"icon glyph","shapeType":"rect","bbox":[140,400,6,27]}
+{"kind":"textbox","slide":7,"id":"15","role":"card label","text":"FIRST WEDGE","textPreview":"FIRST WEDGE","textChars":11,"textLines":1,"bbox":[172,384,247.33333333333331,28]}
+{"kind":"textbox","slide":7,"id":"16","role":"card body: FIRST WEDGE","text":"Start with sales and\ncustomer-facing onboarding,\nobjection handling, and\ncertification. The ROI story\nis clearest there.","textPreview":"Start with sales and | customer-facing onboarding, | objection handling, and | certification. The ROI story | is clearest there.","textChars":120,"textLines":5,"bbox":[108,448,307.3333333333333,120]}
+{"kind":"shape","slide":7,"id":"17","role":"card panel: FUTURE WEDGE","shapeType":"roundRect","bbox":[463.3333333333333,362,355.3333333333333,228]}
+{"kind":"shape","slide":7,"id":"18","role":"card accent: FUTURE WEDGE","shapeType":"rect","bbox":[463.3333333333333,362,8,228]}
+{"kind":"shape","slide":7,"id":"19","role":"icon badge","shapeType":"ellipse","bbox":[485.3333333333333,386,54,54]}
+{"kind":"shape","slide":7,"id":"20","role":"icon glyph","shapeType":"ellipse","bbox":[498.3333333333333,404,10,10]}
+{"kind":"shape","slide":7,"id":"21","role":"icon glyph","shapeType":"ellipse","bbox":[516.3333333333333,413,10,10]}
+{"kind":"shape","slide":7,"id":"22","role":"icon glyph","shapeType":"rect","bbox":[507.3333333333333,411,19,3]}
+{"kind":"textbox","slide":7,"id":"23","role":"card label","text":"FUTURE WEDGE","textPreview":"FUTURE WEDGE","textChars":12,"textLines":1,"bbox":[551.3333333333333,384,247.33333333333331,28]}
+{"kind":"textbox","slide":7,"id":"24","role":"card body: FUTURE WEDGE","text":"Use multi-NPC scenarios as\nthe premium differentiator:\nbuying committees, panel\ninterviews, and\nmulti-stakeholder\nconversations.","textPreview":"Use multi-NPC scenarios as | the premium differentiator: | buying committees, panel | interviews, and | multi-stakeholder | conversations.","textChars":128,"textLines":6,"bbox":[487.3333333333333,448,307.3333333333333,120]}
+{"kind":"shape","slide":7,"id":"25","role":"card panel: PRODUCT THESIS","shapeType":"roundRect","bbox":[842.6666666666666,362,355.3333333333333,228]}
+{"kind":"shape","slide":7,"id":"26","role":"card accent: PRODUCT THESIS","shapeType":"rect","bbox":[842.6666666666666,362,8,228]}
+{"kind":"shape","slide":7,"id":"27","role":"icon badge","shapeType":"ellipse","bbox":[864.6666666666666,386,54,54]}
+{"kind":"shape","slide":7,"id":"28","role":"icon glyph","shapeType":"roundRect","bbox":[877.6666666666666,401,26,13]}
+{"kind":"shape","slide":7,"id":"29","role":"icon glyph","shapeType":"roundRect","bbox":[882.6666666666666,410,26,13]}
+{"kind":"shape","slide":7,"id":"30","role":"icon glyph","shapeType":"roundRect","bbox":[887.6666666666666,419,20,10]}
+{"kind":"textbox","slide":7,"id":"31","role":"card label","text":"PRODUCT THESIS","textPreview":"PRODUCT THESIS","textChars":14,"textLines":1,"bbox":[930.6666666666666,384,247.33333333333331,28]}
+{"kind":"textbox","slide":7,"id":"32","role":"card body: PRODUCT THESIS","text":"Enter with readiness\ninfrastructure. Win later\nwith orchestration, group\ndynamics, and room-level\ncoaching.","textPreview":"Enter with readiness | infrastructure. Win later | with orchestration, group | dynamics, and room-level | coaching.","textChars":107,"textLines":5,"bbox":[866.6666666666666,448,307.3333333333333,120]}
